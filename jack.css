@@ -1,0 +1,11 @@
+div {
+	height:100 px;
+	width: 100 px;
+	background-color: pink;
+	border: 2px solid black;
+}
+p {
+	font-family: Garamond;
+	color: green;
+	size: 500px ;
+}
