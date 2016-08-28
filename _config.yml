@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<link type="text/css" rel="stylesheet" href="jack.css"/>
-		<title> Raad Plays </title>
-	</head>
-	<body>
-		
-		<div>
-			<p><center> Raad Plays Coming Soon =)</center></p> 
-
-		</div>
-	</body>
-</html>
+markdown: redcarpet
